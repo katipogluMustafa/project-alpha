@@ -6,7 +6,7 @@ I like to keep it simple and since this one my first project I used 'alpha' prob
 
 ## What do I mean by 'Temporal Drift Effect of User Ratings' ?
 
-The slow change of users' old ratings with the effect of time.
+The slow change of users' old ratings with the effect of time. This change may be in an increasing or decreasing fashion depending on the user.
 
 ## What is it about ?
 
